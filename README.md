@@ -17,4 +17,8 @@ PASO 2 - Create new branch from main
 
 PASO 3 - Sacar del versionamiento
 *  Remove from the source the following text: 
-'Un gran poder conlleva una gran responsabilidad'
+' otro texto ' 
+*  git log
+Este comando muestra los commits con los hash
+*  git reset --hard <hash>
+Este comando resetea la rama a un commit anterior 
