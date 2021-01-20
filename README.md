@@ -17,3 +17,4 @@ PASO 2 - Create new branch from main
 
 PASO 3 - Sacar del versionamiento
 *  Remove from the source the following text: 
+'Un gran poder conlleva una gran responsabilidad'
