@@ -28,3 +28,15 @@ STEP 4 - Merge Request
 *  Mergear nueva rama con main 
 *  git checkout main
 *  git pull origin main
+
+STEP 5 - Merque Request with conflicts
+*  Generar merge request en Github
+*  Use git manual command from Github
+
+STEP 6 - Remove branch (local)
+*  git branch
+*  git branch -D <branch name>
+
+STEP 7 - Retrieve
+
+STEP 8 - Rebase
