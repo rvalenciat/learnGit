@@ -14,3 +14,6 @@ PASO 2 - Create new branch from main
 *  git status
 *  git commit -m 'my first push to new branch'
 *  git push origin new-branch-from-main
+
+PASO 3 - Sacar del versionamiento
+*  Remove from the source the following text: 
